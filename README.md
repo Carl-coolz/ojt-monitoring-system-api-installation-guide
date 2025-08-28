@@ -6,9 +6,9 @@ a guide of running the ojt-monitoring-system via windows linux subsystem
 
 # After Installation
 restart your laptop/pc and after that, open your cmd and input
-<prep> wsl </pre>
+<pre> wsl </pre>
 wait for it to load until you see this 
 # example@DESKTOP-123456:/mnt/c/Users/Example$
 you need to enter
-<prep> cd </pre>
+<pre> cd </pre>
 first before proceeding
