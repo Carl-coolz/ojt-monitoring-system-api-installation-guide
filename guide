@@ -1,0 +1,2 @@
+First is to install Windows Subsystem on your Windows laptop (Windows 10/11)
+go to command prompt and enter wsl --install and wait for it to install
