@@ -11,4 +11,7 @@ wait for it to load until you see this
 # example@DESKTOP-123456:/mnt/c/Users/Example$
 you need to enter
 <pre> cd </pre>
-first before proceeding
+first before proceeding, then go update your linux system enter
+<pre> sudo apt update </pre>
+then install nodejs npm and mongodb
+
