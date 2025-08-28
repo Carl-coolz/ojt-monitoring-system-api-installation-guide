@@ -13,5 +13,5 @@ you need to enter
 <pre> cd </pre>
 first before proceeding, then go update your linux system enter
 <pre> sudo apt update </pre>
-then install nodejs npm and mongodb
+then install nodejs npm and mongodb (i already provided the .deb file of mongodb in this github respiratory)
 
